@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Proyecto Guadalupe</string>
+    <string name="head">TEAM DOAL!</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="action_search">Buscar</string>
+    <string name="action_camara">Camara</string>
+    <string name="action_Ubicacion">Ubicacion</string>
+    <string name="titulo"> Actividad Titulo</string>
+    <string name="titulo2"> Actividad 2</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>

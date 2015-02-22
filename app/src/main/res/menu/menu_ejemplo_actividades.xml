@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".EjemploActividadesActivity">
+
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/action_Seach"
+        android:icon="@drawable/ic_seach"
+        android:title="@string/action_search"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/action_Ubicacion"
+        android:icon="@drawable/ic_ubicacion"
+        android:title="@string/action_Ubicacion"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/action_Camara"
+        android:icon="@drawable/ic_camara"
+        android:title="@string/action_camara"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"/>
+</menu>
